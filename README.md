@@ -7,3 +7,4 @@
 - Certificado Lógica de Programação Essencial
 - Algoritmo Uniasselvi
 - Trabalhando com Branches no GitHub
+- Trabalhando com Git e GitLab na prática
