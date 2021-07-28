@@ -8,3 +8,4 @@
 - Algoritmo Uniasselvi
 - Trabalhando com Branches no GitHub
 - Trabalhando com Git e GitLab na prática
+- Primeiros passos para desenvolvimento web
