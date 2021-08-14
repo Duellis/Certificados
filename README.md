@@ -14,3 +14,4 @@
 - Programação para internet com JavaScript;
 - Recriando a Interface do Netflix;
 - Construindo páginas para internet com Bootstrap;
+- Recriando o jogo da cobrinha com JavaScript;
