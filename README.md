@@ -16,3 +16,4 @@
 - Construindo páginas para internet com Bootstrap;
 - Recriando o jogo da cobrinha com JavaScript;
 - HTML Web Developer;
+- Boas-vindas ao Bootcamp everis Quality AssuranceBeginner;
