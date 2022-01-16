@@ -17,4 +17,4 @@
 - Recriando o jogo da cobrinha com JavaScript;
 - HTML Web Developer;
 - Boas-vindas ao Bootcamp everis Quality AssuranceBeginner;
-- Maratona 0 ao Código - III
+- Maratona 0 ao Código - III;
