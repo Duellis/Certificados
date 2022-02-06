@@ -19,3 +19,8 @@
 - Boas-vindas ao Bootcamp everis Quality AssuranceBeginner;
 - Maratona 0 ao Código - III;
 - Codigo-da-virada Kenzie;
+- Boas Vindas ao Bootcamp GFT;
+- Aprenda o que são Estrutura de Dados e Algoritmo;
+- Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso;
+- Introdução ao Ecossistema e Documentação Java;
+
