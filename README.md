@@ -23,4 +23,5 @@
 - Aprenda o que são Estrutura de Dados e Algoritmo;
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso;
 - Introdução ao Ecossistema e Documentação Java;
+- Dominando IDEs Java;
 
