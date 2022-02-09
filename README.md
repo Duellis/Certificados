@@ -24,4 +24,5 @@
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso;
 - Introdução ao Ecossistema e Documentação Java;
 - Dominando IDEs Java;
+- Variáveis, Tipos de Dados e Operadores Matemáticos em Java;
 
