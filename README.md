@@ -25,4 +25,5 @@
 - Introdução ao Ecossistema e Documentação Java;
 - Dominando IDEs Java;
 - Variáveis, Tipos de Dados e Operadores Matemáticos em Java;
+- Entendendo Métodos Java;
 
