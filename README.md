@@ -26,4 +26,5 @@
 - Dominando IDEs Java;
 - Variáveis, Tipos de Dados e Operadores Matemáticos em Java;
 - Entendendo Métodos Java;
+- Lógica Condicional e Controle de Fluxos em java;
 
