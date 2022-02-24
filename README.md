@@ -27,4 +27,5 @@
 - Variáveis, Tipos de Dados e Operadores Matemáticos em Java;
 - Entendendo Métodos Java;
 - Lógica Condicional e Controle de Fluxos em java;
+- Estruturas de Repetição e Arrays em Java;
 
