@@ -30,4 +30,5 @@
 - Estruturas de Repetição e Arrays em Java;
 - Programação Orientada a Objetos;
 - Debugging Java;
+- Tratamento de Exceções em Java;
 
