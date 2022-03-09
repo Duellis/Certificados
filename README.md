@@ -31,4 +31,5 @@
 - Programação Orientada a Objetos;
 - Debugging Java;
 - Tratamento de Exceções em Java;
+- Trabalhando com Collections Java;
 
