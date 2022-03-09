@@ -32,5 +32,6 @@
 - Debugging Java;
 - Tratamento de Exceções em Java;
 - Trabalhando com Collections Java;
-- Certificado Introdução ao HTTP e HTTPS;
+- Introdução ao HTTP e HTTPS;
+- Simplificando Projetos Java com o Spring Boot;
 
