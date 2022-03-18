@@ -38,4 +38,5 @@
 - Abstraindo um Bootcamp Usando Orientação a Objetos em Java;
 - Explorando Padrões de Projetos na Prática com Java;
 - GFT Start #4 Java;
+- Lógica de Programação JDEV;
 
