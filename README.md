@@ -39,4 +39,5 @@
 - Explorando Padrões de Projetos na Prática com Java;
 - GFT Start #4 Java;
 - Lógica de Programação JDEV;
+- Certificado GitHub versionamento de código;
 
