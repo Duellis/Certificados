@@ -40,4 +40,5 @@
 - GFT Start #4 Java;
 - Lógica de Programação JDEV;
 - Certificado GitHub versionamento de código;
+- Certificado DIO Campus Expert._
 
