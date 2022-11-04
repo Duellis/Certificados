@@ -40,5 +40,7 @@
 - GFT Start #4 Java;
 - Lógica de Programação JDEV;
 - Certificado GitHub versionamento de código;
-- Certificado DIO Campus Expert._
+- Certificado DIO Campus Expert._;
+- Certificado Lógica de Programação : Comece em Lógica com o jogo Pong e JavaScript;
+- Certificado HTML5 e CSS3  part 1 - crie uma página da web;
 
