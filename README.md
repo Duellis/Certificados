@@ -43,4 +43,7 @@
 - Certificado DIO Campus Expert._;
 - Certificado Lógica de Programação : Comece em Lógica com o jogo Pong e JavaScript;
 - Certificado HTML5 e CSS3  part 1 - crie uma página da web;
+- Certificado PHYTHON 3 - Mundo 1;
+- Certificado PHYTHON 3 - Mundo 2;
+- Certificado de conclusão Análise e Desenvolvimento de Sistemas;
 
